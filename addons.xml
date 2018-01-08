@@ -52,7 +52,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.filmnet" name="Filmnet Module" version="1.00.08" provider-name="Filmnet Devs Team">
+<addon id="script.module.filmnet" name="Filmnet Module" version="1.00.09" provider-name="Filmnet Devs Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>
