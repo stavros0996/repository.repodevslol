@@ -18,7 +18,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.filmnet" version="1.0.07" name="Filmnet" provider-name="Filmnet Devs Team">
+<addon id="plugin.video.filmnet" version="1.0.08" name="Filmnet" provider-name="Filmnet Devs Team">
   <requires>
     <import addon="xbmc.python" version="2.19.0" />
     <import addon="script.module.filmnet" />
@@ -52,7 +52,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.filmnet" name="Filmnet Module" version="1.00.10" provider-name="Filmnet Devs Team">
+<addon id="script.module.filmnet" name="Filmnet Module" version="1.00.11" provider-name="Filmnet Devs Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>
