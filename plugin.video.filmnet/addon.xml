@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<<<<<<< HEAD
+<addon id="plugin.video.filmnet" version="1.0.09" name="Filmnet" provider-name="Filmnet Devs Team">
+=======
 <addon id="plugin.video.filmnet" version="1.0.08" name="Filmnet" provider-name="Filmnet Devs Team">
+>>>>>>> master
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.filmnet" />
